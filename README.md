@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Condiciones de bioseguridad frente al programa estructurado**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_72340050_BIOSEGURIDAD_ACUICULTURA/#/](https://ecored-sena.github.io/CF3_72340050_BIOSEGURIDAD_ACUICULTURA/#/)
 
 #
 
