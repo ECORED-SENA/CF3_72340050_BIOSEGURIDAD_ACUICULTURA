@@ -43,6 +43,24 @@
   @media screen and (max-width: $bp-max-xs)
     background-image: url(../assets/curso/portada/fondo-banner-principal-movil.png) !important
 
+.tabla-a
+  table
+    tr
+      th,td
+        border: 1px solid #AAAAAA
+    thead
+      tr
+        th
+          border-bottom: none
+          text-align: left
+          vertical-align: text-top
+    tbody
+      td
+        padding: 45px 0px
+      tr:first-child
+        td
+          border-top: none
+
 //colores
 .fondo-color-sistema-h
   background-color: $color-sistema-h
@@ -52,9 +70,22 @@
   background-color: $color-sistema-j
 .fondo-color-sistema-k
   background-color: $color-sistema-k
+.fondo-color-sistema-l
+  background-color: $color-sistema-l
+.fondo-color-sistema-m
+  background-color: $color-sistema-m
+.fondo-color-sistema-n
+  background-color: $color-sistema-n
+.fondo-color-sistema-o
+  background-color: $color-sistema-o
+.fondo-color-sistema-p
+  background-color: $color-sistema-p
 
 .fondo-color-secundario
   background-color: $color-secundario
+
+.c-color-sistema-m
+  color: $color-sistema-m
 
 //bordes
 .no-borde
@@ -150,6 +181,10 @@
   &.pos-center
     &:before
       background-position: center
+  &.pos-y-p-1
+    &:before
+      top: 100px
+      bottom: 50px
   &.f1
     &:before
       background-image: url(../assets/curso/temas/3.png)
@@ -160,6 +195,9 @@
   &.f3
     &:before
       background-image: url(../assets/curso/temas/17.png)
+  &.f4
+    &:before
+      background-image: url(../assets/curso/temas/31.png)
   &__contenido
     position: relative
 
@@ -193,8 +231,8 @@
   .cont-figura
     position: relative
     img
-      max-width: 55px
-      min-width: 55px
+      max-width: 58px
+      min-width: 58px
       position: relative
       bottom: -10px
       left: -5px
@@ -247,3 +285,15 @@
     border: none
     i:before
       color: $white
+
+//slyders
+.slider-personalizado-1
+  .slyder-a__btn--sigt,.slyder-a__btn--atrs
+    background-color: $color-acento-botones
+    background-image: url(../assets/curso/temas/38.svg)
+  .slyder-a__bullets__item
+    opacity: 0.35
+    background-color: $color-acento-contenido
+    border: none !important
+    &--active
+      opacity: 1 !important
