@@ -159,13 +159,13 @@
       p.mb-0 #[b Figura 1.] Diagrama de flujo
     
     figure.mb-4(data-aos="flip-up")
-      img.mx-auto(src="@/assets/curso/temas/39.svg",alt="La  figura presenta el proceso de manejo y procesamiento de pescado. Comienza con la captura, seguida del transporte, prelavado y recepción. Luego, el pescado pasa por el degolle, corte de abdomen y eviscerado. Posteriormente, se realiza un segundo lavado, seguido de la clasificación por peso y desinfección. El proceso continúa con el empaque, refrigeración y embalaje, para finalmente ser transportado al destino final.")
+      img.mx-auto(src="@/assets/curso/temas/39.svg",alt="La figura presenta el proceso de manejo y procesamiento de pescado. Comienza con la captura, seguida del transporte, prelavado y recepción. Luego, el pescado pasa por el degolle, corte de abdomen y eviscerado. Posteriormente, se realiza un segundo lavado, seguido de la clasificación por peso y desinfección. El proceso continúa con el empaque, refrigeración y embalaje, para finalmente ser transportado al destino final.")
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       p.mb-0 #[b Tabla 1.] Análisis de riesgos y medidas preventivas en la acuicultura
     
-    .tabla-a.color-acento-contenido.mb-3(data-aos="fade")
-      table
+    .tabla-a.vari-p-1.color-acento-contenido.mb-3(data-aos="fade")
+      table(style="min-width: 800px;")
         thead
           tr
             th Análisis de riesgos etapa del proceso
@@ -176,26 +176,26 @@
             th ¿Es esta etapa un PCC? Sí/No
         tbody
           tr.fondo-color-sistema-o
-            td
-            td
-            td
-            td
-            td
-            td
+            td #[span.fw-bold Cuarentena]
+            td Biológicos, Patógenos
+            td Sí
+            td La densidad de los peces (m2) en los estanques y el tiempo excesivo pueden facilitar contaminación cruzada y paso de patógenos a la masa muscular. La flora microbiana es excesiva. Presencia de alimento concentrado. Presencia de lodos, hojas y suciedad en general.
+            td Retiro de sedimentos, controlar la densidad de peces. Controlar el tiempo de cuarentena, controlar la calidad microbiológica del agua de los estanques. Suspender la alimentación 12 horas previo a captura. BPM.
+            td Sí
           tr.fondo-color-sistema-p
-            td
-            td
-            td
-            td
-            td
-            td
+            td #[span.fw-bold Empaque]
+            td Biológico
+            td Sí
+            td El empaque puede venir contaminado con microorganismos o con químicos. Contaminación cruzada por operarios.
+            td Almacenar adecuadamente los empaques y revisar que no contengan materias extrañas. Empacar y almacenar en cava lo más rápidamente posible.
+            td No
           tr.fondo-color-sistema-o
-            td
-            td
-            td
-            td
-            td
-            td
+            td #[span.fw-bold Evisceración]
+            td Biológicos
+            td Sí
+            td Posible contaminación cruzada. Posibles multiplicaciones de microorganismos sin tiempos de espera a temperatura ambiente son prolongadas.
+            td Mejorar sistema de evisceración, emplear succionador. Evitar contaminación por materia fecal.
+            td No
 
 </template>
 

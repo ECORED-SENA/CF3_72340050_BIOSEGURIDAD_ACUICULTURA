@@ -21,7 +21,7 @@
           p.mb-0 #[b Tabla 2.] Ejemplo 1 verificación de registros
         
         .tabla-a.vari-p-1.color-acento-contenido.mb-3(data-aos="fade")
-          table
+          table(style="min-width: 420px;")
             thead
               tr
                 th Campo

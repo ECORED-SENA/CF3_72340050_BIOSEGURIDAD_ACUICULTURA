@@ -198,7 +198,7 @@ export default {
             },
             { id: 'b', texto: 'Límites críticos.', esCorrecta: false },
             { id: 'c', texto: 'Registro de producción.', esCorrecta: false },
-            { id: 'd', texto: '<em>Observaciones</em>.', esCorrecta: true },
+            { id: 'd', texto: 'Observaciones.', esCorrecta: true },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
