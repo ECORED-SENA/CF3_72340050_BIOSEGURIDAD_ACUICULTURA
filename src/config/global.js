@@ -132,7 +132,7 @@ export default {
         'Sistema de Análisis de Peligros y de Puntos Críticos de Control (HACCP).',
       referencia:
         'OMS. (2012). Código de prácticas para el pescado y los productos pesqueros.',
-      tipo: 'Sección 5',
+      tipo: 'Documento',
       link: 'https://www.fao.org/4/i2382s/i2382s.pdf',
     },
   ],
