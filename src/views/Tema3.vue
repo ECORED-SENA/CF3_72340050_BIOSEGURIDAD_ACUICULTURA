@@ -10,7 +10,7 @@
     .row.mb-4
       .col-lg-8(data-aos="fade-right")
         .fondo-color-sistema-i.p-4
-          p.mb-4 Por sus siglas en inglés, #[em Hazard Analysis and Critical Control Points] (HACCP) es un concepto desarrollado en la década de 1960 por la Administración Nacional de Aeronáutica y del Espacio (NASA) de Estados Unidos, con el propósito de garantizar la inocuidad de los alimentos destinados a los astronautas en el espacio.
+          p.mb-4 Por sus siglas en inglés, Hazard Analysis and Critical Control Points (HACCP) es un concepto desarrollado en la década de 1960 por la Administración Nacional de Aeronáutica y del Espacio (NASA) de Estados Unidos, con el propósito de garantizar la inocuidad de los alimentos destinados a los astronautas en el espacio.
           p.mb-0 Este sistema permite identificar peligros específicos y definir acciones para su control, con el objetivo de asegurar la inocuidad de los alimentos. Se basa en fundamentos científicos y adopta un enfoque sistemático.
       .col-lg-4.order-first.order-lg-last.mb-4.mb-lg-0(data-aos="fade-left")
         .fondo-color-secundario.p-2.h-100.align-content-center
@@ -113,7 +113,7 @@
             .row.justify-content-center.pt-2
               .col-lg-6.mb-4.mb-lg-0
                 h4.mb-5 Vigilancia de PCC
-                p.mb-0 Se debe monitorear los PCC en relación con los límites críticos establecidos. Detecta pérdidas de control y facilita correcciones rápidas.
+                p.mb-0 Se deben monitorear los PCC en relación con los límites críticos establecidos. Detecta pérdidas de control y facilita correcciones rápidas.
               .col-lg-5
                 figure
                   img.mx-auto(src="@/assets/curso/temas/32.png",style="max-width: 412px;")
@@ -168,7 +168,7 @@
       table(style="min-width: 800px;")
         thead
           tr
-            th Análisis de riesgos etapa del proceso
+            th Análisis de riesgos, etapa del proceso
             th Identifique riesgos potenciales introducidos, controlados o mantenidos en esta etapa
             th ¿Algún riesgo es significativo para la seguridad del alimento? Sí/No
             th Justifique su decisión de la columna tres
@@ -177,7 +177,7 @@
         tbody
           tr.fondo-color-sistema-o
             td #[span.fw-bold Cuarentena]
-            td Biológicos, Patógenos
+            td Biológicos, patógenos
             td Sí
             td La densidad de los peces (m2) en los estanques y el tiempo excesivo pueden facilitar contaminación cruzada y paso de patógenos a la masa muscular. La flora microbiana es excesiva. Presencia de alimento concentrado. Presencia de lodos, hojas y suciedad en general.
             td Retiro de sedimentos, controlar la densidad de peces. Controlar el tiempo de cuarentena, controlar la calidad microbiológica del agua de los estanques. Suspender la alimentación 12 horas previo a captura. BPM.
@@ -194,7 +194,7 @@
             td Biológicos
             td Sí
             td Posible contaminación cruzada. Posibles multiplicaciones de microorganismos sin tiempos de espera a temperatura ambiente son prolongadas.
-            td Mejorar sistema de evisceración, emplear succionador. Evitar contaminación por materia fecal.
+            td Mejorar el sistema de evisceración, emplear succionador. Evitar contaminación por materia fecal.
             td No
 
 </template>

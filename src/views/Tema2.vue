@@ -24,28 +24,28 @@
       .fondo-personalizado-1__contenido.py-5
         .bg-white.p-4.borde-20
           PasosB.pasos-personalizado-1
-            .row.align-items-center.justify-content-center.pt-lg-3(titulo="Comprensión de riesgos")
+            .row.align-items-center.justify-content-center.pt-lg-3(titulo="1")
               .col-lg-6.mb-4.mb-lg-0
                 h4.mb-4 Comprensión de riesgos
                 p.mb-0 Facilita una mejor comprensión de los posibles riesgos y de los procesos involucrados en la explotación.
               .col-lg-4
                 figure
                   img.mx-auto(src="@/assets/curso/temas/18.png",style="max-width: 295px;")
-            .row.align-items-center.justify-content-center.pt-lg-3(titulo="Motivar administraciones")
+            .row.align-items-center.justify-content-center.pt-lg-3(titulo="2")
               .col-lg-6.mb-4.mb-lg-0
-                h4.mb-4 Motivar administraciones
+                h4.mb-4 Motivar a administraciones
                 p.mb-0 La información de los mapas de riesgos puede motivar a desarrollar planes de contención e invertir en control y capacitación.
               .col-lg-4
                 figure
                   img.mx-auto(src="@/assets/curso/temas/19.png",style="max-width: 295px;")
-            .row.align-items-center.justify-content-center.pt-lg-3(titulo="Fomentar trabajo equipo")
+            .row.align-items-center.justify-content-center.pt-lg-3(titulo="3")
               .col-lg-6.mb-4.mb-lg-0
-                h4.mb-4 Fomentar trabajo equipo
+                h4.mb-4 Fomentar trabajo en equipo
                 p.mb-0 Fomenta el trabajo en equipo durante el diseño e implementación de los mapas de riesgos, mejorando la comprensión de procedimientos.
               .col-lg-4
                 figure
                   img.mx-auto(src="@/assets/curso/temas/20.png",style="max-width: 295px;")
-            .row.align-items-center.justify-content-center.pt-lg-3(titulo="Evaluaciones anuales")
+            .row.align-items-center.justify-content-center.pt-lg-3(titulo="4")
               .col-lg-6.mb-4.mb-lg-0
                 h4.mb-4 Evaluaciones anuales
                 p.mb-0 Contribuye a la administración al facilitar evaluaciones anuales de los riesgos y el impacto de las acciones.

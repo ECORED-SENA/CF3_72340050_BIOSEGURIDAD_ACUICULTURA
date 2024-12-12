@@ -127,7 +127,7 @@
                   img.mx-auto(src="@/assets/curso/temas/42.png",style="max-width: 412px;")
             .row.justify-content-center.pt-2
               .col-lg-6.mb-4.mb-lg-0
-                h4.mb-5 Procedencia reproductores
+                h4.mb-5 Procedencia de reproductores
                 p.mb-0 Demostrar la procedencia de reproductores, ya sea de programas de reproducción o captura legal de silvestres, con cuarentena.
               .col-lg-5
                 figure
@@ -241,7 +241,7 @@
             .fondo-color-secundario.p-4.h-100
               figure.mb-4
                 img.mx-auto(src="@/assets/curso/temas/56.svg",style="max-width: 105px;")
-              p.fw-bold.mb-4.text-center Ejecución revisión
+              p.fw-bold.mb-4.text-center Ejecución de revisión
               p.text-center Visitar el sitio que se va a verificar.
           .col-lg-3.col-md-6.mb-4
             .fondo-color-secundario.p-4.h-100
@@ -253,7 +253,7 @@
             .fondo-color-secundario.p-4.h-100
               figure.mb-4
                 img.mx-auto(src="@/assets/curso/temas/58.svg",style="max-width: 105px;")
-              p.fw-bold.mb-4.text-center Evaluación hallazgo
+              p.fw-bold.mb-4.text-center Evaluación de los hallazgo
               p.text-center Crear un listado de los hallazgos obtenidos durante la verificación.
           .col-lg-3.col-md-6.mb-4
             .fondo-color-secundario.p-4.h-100
