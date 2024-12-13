@@ -253,7 +253,7 @@
             .fondo-color-secundario.p-4.h-100
               figure.mb-4
                 img.mx-auto(src="@/assets/curso/temas/58.svg",style="max-width: 105px;")
-              p.fw-bold.mb-4.text-center Evaluación de los hallazgo
+              p.fw-bold.mb-4.text-center Evaluación de los hallazgos
               p.text-center Crear un listado de los hallazgos obtenidos durante la verificación.
           .col-lg-3.col-md-6.mb-4
             .fondo-color-secundario.p-4.h-100
